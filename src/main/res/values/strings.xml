@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hero Feed</string>
+
+    <string name="hello_world"></string>
+    <string name="action_settings">Settings</string>
+    <string name="placeholder_empty_list">test location</string>
+    <string name="title_activity_publishers">PublishersActivity</string>
+</resources>
